@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Po-Chih Wu</h1>
 <h3 align="center">A Undergraduate Student from Taiwan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pochih-code" alt="pochih-code" /></a> </p>
-
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Computer Vision, Computational Photography**
 
 - 📝 I regularly write articles on [https://pochih-code.github.io/](https://pochih-code.github.io/)
