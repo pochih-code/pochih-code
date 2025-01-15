@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pochih-code&show_icons=true&locale=en" alt="pochih-code" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pochih-code&" alt="pochih-code" /></p>
+
