@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Po-Chih Wu</h1>
 <h3 align="center">A Undergraduate Student from Taiwan</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Computer Vision, Computational Photography**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and Computer Vision.**
 
 - 📝 I regularly write articles on [https://pochih-code.github.io/](https://pochih-code.github.io/)
 
